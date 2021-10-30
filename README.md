@@ -1,10 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6177941&assignment_repo_type=AssignmentRepo)
 LAB WORK
 -------------
-Lab 1  -------  Date - 06/08/2021
+Lab 1 : -------  Date - 06/08/2021
 ------------
 Problem 1.1 : WAP to recognize strings with numbers or alphabets.                                          
-Date - 06/08/2021
 
 Sample Input :
 sakshi
@@ -16,10 +15,10 @@ contains only letter(s)
 contains only digit(s)
 contains both letter(s) and digit(s) or special character(s)
 
-Lab 2 :
+Lab 2 : ------- Date - 13/08/2021
 -------------
-Problem 2.1 : WAP to recognize digit and non-digit
-Date - 13/08/2021
+""""Problem 2.1 : WAP to recognize digit and non-digit
+
 Sample Input:
 1 1222 sakshi 2019UGCS043R 6
 
