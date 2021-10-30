@@ -77,9 +77,10 @@ contains only vowel(s)
 contains only consonant(s)
 contains both vowel(s) and consonant(s)
 other character(s) detected
-
-Problem 3.2: WAP to count no. characters in a string.
 Date - 20/08/2021
+----------------
+PROBLEM 3.2: WAP to count no. characters in a string.
+
 
 Sample Input:
 2019UGCS0043R_Sakshi_Maurya
@@ -87,8 +88,10 @@ Sample Input:
 Sample Output:
 27 character(s) detected
 
-Problem 3.3: WAP to count no. of vowels, consonants, in a string.
 Date - 20/08/2021
+----------------------
+PROBLEM 3.3: WAP to count no. of vowels, consonants, in a string.
+
 
 Sample Input:
 sakshi maurya 2019UGCS043R
@@ -98,9 +101,10 @@ Following Characters detected:
 No. of vowel: 6
 No. of consonants: 11
 
-
-Problem 3.4: WAP to count no. of characters, whitespace,tabs and digits in a string.
 Date - 20/08/2021
+------------------
+Problem 3.4: WAP to count no. of characters, whitespace,tabs and digits in a string.
+
 
 Sample Input:
 Sakshi Maurya    2019UGCS043R
@@ -114,8 +118,10 @@ Other Characters: 15
 
 Lab 4
 ---------------
-Lab 4.1: WAP to recognize float and int data type.
 Date - 27/08/2021
+------------------
+Lab 4.1: WAP to recognize float and int data type.
+
 
 Sample Input:
 001
@@ -127,9 +133,10 @@ Sample Output:
 123.1 is of float type
 Sakshi neither float nor int
 
-
-Lab 4.2: WAP to verify a valid identifier.
 Date - 27/08/2021
+-------------------
+Lab 4.2: WAP to verify a valid identifier.
+
 
 Sample Input:
 var
@@ -143,9 +150,10 @@ Not a valid identifier
 A valid identifier
 A valid identifier
 
-
-Lab 4.3: WAP to verify a valid keyword.
 Date - 27/08/2021
+----------------------
+Lab 4.3: WAP to verify a valid keyword.
+
 
 Sample Input:
 bool
@@ -159,9 +167,10 @@ Not a keyword
 Not a keyword
 A keyword
 
-
-Lab 4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=)).
 Date - 27/08/2021
+--------------------
+Lab 4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=)).
+
 
 Sample Input:
 +
@@ -175,9 +184,10 @@ It's a MINUS operator
 Greater or equal to operator
 Lesser or equal to operator
 
-
-Lab 4.5: WAP to determine input operators whether arithmetic or logical.
 Date - 27/08/2021
+----------------------
+Lab 4.5: WAP to determine input operators whether arithmetic or logical.
+
 
 Sample Input:
 +
@@ -192,10 +202,13 @@ It's a valid logical operator
 It's a valid arithmetic operator
 It's a valid logical operator
 Neither logical nor arithmetic operator!
-Lab 5
 
-Problem 5.1: WAP to count number of lexemes,keyword, identifiers, operators etc.
+Lab 5
+----------------
 Date - 03/09/2021
+----------------------
+Problem 5.1: WAP to count number of lexemes,keyword, identifiers, operators etc.
+
 
 Sample Input:
 int sakshiRoll = 10-9;
@@ -207,8 +220,10 @@ No. of identifiers=1
 No. of integers=2
 No. of fractions=0
 No. of operators=3
-Problem 5.2: WAP to verify valid url or not.
 Date - 03/09/2021
+--------------------
+Problem 5.2: WAP to verify valid url or not.
+
 
 Sample Input:
 https://www.google.com
@@ -217,10 +232,14 @@ https://www.google
 Sample Output:
 Valid URL
 Invalid URL
+
 Lab 6
+------------
+Date - 10/09/2021
+----------------------
 
 Problem 6.1: WAP to verify valid phone no.
-Date - 10/09/2021
+
 
 Sample Input:
 919876556969
@@ -239,8 +258,10 @@ sakshi.w@
 Sample Output:
 It's a valid email id.
 Invalid email id.
-Problem 6.3: WAP to count no. of characters ina given input file.
 Date - 10/09/2021
+------------------
+Problem 6.3: WAP to count no. of characters ina given input file.
+
 
 Sample Input:
 My
@@ -251,9 +272,10 @@ Sakshim
 Sample Output:
 Total Characters detected : 19
 Lab 7:
-
-Problem 7.1: WAP to count no. of characters, whitespace,tabs and digits in the given input file. Date - 17/09/2021
-
+------------
+Date - 17/09/2021
+---------------------
+Problem 7.1: WAP to count no. of characters, whitespace,tabs and digits in the given input file. 
 Sample Input:
 My
 name
@@ -266,9 +288,10 @@ No. of tabs : 0
 No. of Lines: 4
 No. of white spaces: 0
 Other Characters: 14
+Date - 17/09/2021
+------------------------
 
-
-Problem 7.2: WAP to count no. of lexemes in the given input file. Date - 17/09/2021
+Problem 7.2: WAP to count no. of lexemes in the given input file. 
 
 Sample Input:
 int a = 20+30;
@@ -281,8 +304,9 @@ No. of integers=2
 No. of fractions=0
 No. of operators=3
 
-
-Problem 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file. Date - 17/09/2021
+Date - 17/09/2021
+----------------------
+Problem 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file. 
 
 Sample Input:
 int a =   10 + 3;
