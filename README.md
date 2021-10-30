@@ -183,14 +183,9 @@ A keyword
 Date - 27/08/2021
 --------------------
 
-Lab 4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=)).
+.Lab 4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=))
 
-
-Sample Input:
-+
--
->=
-  <=
+Sample Input:+->=<=
 
 Sample Output:
 It's a PLUS operator
@@ -223,6 +218,7 @@ Lab 5
 ----------------
 Date - 03/09/2021
 ----------------------
+
 Problem 5.1: WAP to count number of lexemes,keyword, identifiers, operators etc.
 
 
@@ -236,8 +232,10 @@ No. of identifiers=1
 No. of integers=2
 No. of fractions=0
 No. of operators=3
+
 Date - 03/09/2021
 --------------------
+
 Problem 5.2: WAP to verify valid url or not.
 
 
@@ -274,8 +272,10 @@ sakshi.w@
 Sample Output:
 It's a valid email id.
 Invalid email id.
+
 Date - 10/09/2021
 ------------------
+
 Problem 6.3: WAP to count no. of characters ina given input file.
 
 
@@ -287,10 +287,12 @@ Sakshim
 
 Sample Output:
 Total Characters detected : 19
+
 Lab 7:
 ------------
 Date - 17/09/2021
 ---------------------
+
 Problem 7.1: WAP to count no. of characters, whitespace,tabs and digits in the given input file. 
 Sample Input:
 My
@@ -304,6 +306,7 @@ No. of tabs : 0
 No. of Lines: 4
 No. of white spaces: 0
 Other Characters: 14
+
 Date - 17/09/2021
 ------------------------
 
@@ -322,6 +325,7 @@ No. of operators=3
 
 Date - 17/09/2021
 ----------------------
+
 Problem 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file. 
 
 Sample Input:
