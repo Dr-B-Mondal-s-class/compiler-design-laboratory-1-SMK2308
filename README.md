@@ -2,7 +2,7 @@
 LAB WORK
 -------------
 Lab 1
-
+------------
 Problem 1.1 : WAP to recognize strings with numbers or alphabets.
 Date - 06/08/2021
 
@@ -17,7 +17,7 @@ contains only digit(s)
 contains both letter(s) and digit(s) or special character(s)
 
 Lab 2 :
-
+-------------
 Problem 2.1 : WAP to recognize digit and non-digit
 Date - 13/08/2021
 Sample Input:
@@ -54,8 +54,9 @@ all Capital letter(s)
 all small letter(s)
 contains both capital and small letter(s)
 other character(s)
-Lab 3
 
+Lab 3
+--------------
 Problem 3.1: WAP to recognize vowels or consonants in string
 Date - 20/08/2021
 
@@ -104,8 +105,9 @@ No. of tabs : 1
 No. of Digits: 7
 No. of white spaces: 1
 Other Characters: 15
-Lab 4
 
+Lab 4
+---------------
 Lab 4.1: WAP to recognize float and int data type.
 Date - 27/08/2021
 
