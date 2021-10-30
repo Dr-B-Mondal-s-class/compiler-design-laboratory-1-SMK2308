@@ -3,8 +3,7 @@ LAB WORK
 -------------
 Lab 1
 ------------
-Problem 1.1 : WAP to recognize strings with numbers or alphabets.
-Date - 06/08/2021
+----Problem 1.1 : WAP to recognize strings with numbers or alphabets.                                           Date - 06/08/2021
 
 Sample Input :
 sakshi
