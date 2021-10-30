@@ -1,7 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6177941&assignment_repo_type=AssignmentRepo)
 LAB WORK
 -------------
-Lab 1 : -------  Date - 06/08/2021
+Lab 1 : 
+------------
+Date - 06/08/2021
 ------------
 PROBLEM 1.1 : WAP to recognize strings with numbers or alphabets.                                          
 
@@ -28,6 +30,7 @@ Sample Output: it's a valid digit not a digit not a digit not a digit it's a val
 
 Date - 13/08/2021
 ------------------
+
 PROBLEM 2.2: WAP to recognize whether string contain only english letters or not.
 
 
@@ -42,8 +45,10 @@ contains only letter(s)
 other character(s) detected
 contains only letter(s)
 other character(s) detected
+
 Date - 13/08/2021
 -----------------
+
 PROBLEM 2.3: WAP to recognize whether string contain only uppercase,lowercase or both letters.
 
 
