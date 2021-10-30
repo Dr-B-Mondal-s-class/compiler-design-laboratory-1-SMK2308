@@ -199,13 +199,7 @@ Date - 27/08/2021
 Lab 4.5: WAP to determine input operators whether arithmetic or logical.
 
 
-Sample Input:
-
-+
-&&
-*
-||
-@
+Sample Input:+&&*||@
 
 Sample Output:
 It's a valid arithmetic operator
