@@ -6,6 +6,7 @@ Lab 1 : -------  Date - 06/08/2021
 Problem 1.1 : WAP to recognize strings with numbers or alphabets.                                          
 
 Sample Input :
+____________________
 sakshi
 12345
 2019UGCS043R
