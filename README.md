@@ -3,10 +3,9 @@ LAB WORK
 -------------
 Lab 1 : -------  Date - 06/08/2021
 ------------
-Problem 1.1 : WAP to recognize strings with numbers or alphabets.                                          
+PROBLEM 1.1 : WAP to recognize strings with numbers or alphabets.                                          
 
 Sample Input :
-____________________
 sakshi
 12345
 2019UGCS043R
@@ -16,18 +15,21 @@ contains only letter(s)
 contains only digit(s)
 contains both letter(s) and digit(s) or special character(s)
 
-Lab 2 : ------- Date - 13/08/2021
+Lab 2 : 
 -------------
-""""Problem 2.1 : WAP to recognize digit and non-digit
+Date - 13/08/2021
+------------------
+PROBLEM 2.1 : WAP to recognize digit and non-digit
 
 Sample Input:
 1 1222 sakshi 2019UGCS043R 6
 
 Sample Output: it's a valid digit not a digit not a digit not a digit it's a valid digit
 
-
-Problem 2.2: WAP to recognize whether string contain only english letters or not.
 Date - 13/08/2021
+------------------
+PROBLEM 2.2: WAP to recognize whether string contain only english letters or not.
+
 
 Sample Input:
 sakshi 
@@ -40,8 +42,10 @@ contains only letter(s)
 other character(s) detected
 contains only letter(s)
 other character(s) detected
-Problem 2.3: WAP to recognize whether string contain only uppercase,lowercase or both letters.
 Date - 13/08/2021
+-----------------
+PROBLEM 2.3: WAP to recognize whether string contain only uppercase,lowercase or both letters.
+
 
 Sample Input:
 SAKSHI
@@ -57,8 +61,10 @@ other character(s)
 
 Lab 3
 --------------
-Problem 3.1: WAP to recognize vowels or consonants in string
 Date - 20/08/2021
+-----------------
+PROBLEM 3.1: WAP to recognize vowels or consonants in string
+
 
 Sample Input:
 iooouu
