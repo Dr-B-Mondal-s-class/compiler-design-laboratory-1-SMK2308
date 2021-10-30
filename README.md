@@ -68,6 +68,7 @@ Lab 3
 --------------
 Date - 20/08/2021
 -----------------
+
 PROBLEM 3.1: WAP to recognize vowels or consonants in string
 
 
@@ -82,8 +83,10 @@ contains only vowel(s)
 contains only consonant(s)
 contains both vowel(s) and consonant(s)
 other character(s) detected
+
 Date - 20/08/2021
 ----------------
+
 PROBLEM 3.2: WAP to count no. characters in a string.
 
 
@@ -95,6 +98,7 @@ Sample Output:
 
 Date - 20/08/2021
 ----------------------
+
 PROBLEM 3.3: WAP to count no. of vowels, consonants, in a string.
 
 
@@ -108,6 +112,7 @@ No. of consonants: 11
 
 Date - 20/08/2021
 ------------------
+
 Problem 3.4: WAP to count no. of characters, whitespace,tabs and digits in a string.
 
 
@@ -125,6 +130,7 @@ Lab 4
 ---------------
 Date - 27/08/2021
 ------------------
+
 Lab 4.1: WAP to recognize float and int data type.
 
 
@@ -140,6 +146,7 @@ Sakshi neither float nor int
 
 Date - 27/08/2021
 -------------------
+
 Lab 4.2: WAP to verify a valid identifier.
 
 
@@ -157,6 +164,7 @@ A valid identifier
 
 Date - 27/08/2021
 ----------------------
+
 Lab 4.3: WAP to verify a valid keyword.
 
 
@@ -174,6 +182,7 @@ A keyword
 
 Date - 27/08/2021
 --------------------
+
 Lab 4.4: WAP to recognize basic operators (PLUS(+), MINUS(-), GE(>=), LE(<=)).
 
 
@@ -181,7 +190,7 @@ Sample Input:
 +
 -
 >=
-<=
+  <=
 
 Sample Output:
 It's a PLUS operator
@@ -191,10 +200,12 @@ Lesser or equal to operator
 
 Date - 27/08/2021
 ----------------------
+
 Lab 4.5: WAP to determine input operators whether arithmetic or logical.
 
 
 Sample Input:
+
 +
 &&
 *
